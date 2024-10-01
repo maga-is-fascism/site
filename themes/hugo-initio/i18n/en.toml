@@ -1,0 +1,32 @@
+[home_services]
+    other = "Services"
+
+[home_recentworks]
+    other = "Recent Posts"
+
+[home_clients]
+    other = "Clients"
+
+[404_title]
+    other = "404"
+[404_description]
+    other = "Oops! This page doesn't exist!"
+
+[footer_contact_title]
+    other = "Contact"
+
+[footer_followme_title]
+    other = "Follow me"
+
+[footer_text_title]
+    other = "What YOU can do"
+[footer_text1]
+    other = "Vote for people who care about democracy and the constitution."
+[footer_text2]
+    other = "Tell others to do the same. Warn them about the threat Trump, Vance and the other MAGA nutjobs pose to our country. Sharing articles on this site is one way you can get the word out."
+
+[footer_form_title]
+    other = "Form widget"
+
+[recent_works_click_text]
+    other = "See details"
