@@ -238,10 +238,10 @@ a:hover {
   background-size: cover;
   color: #7C7C7C;
   padding: 30px 0 35px 0;
-  text-shadow: 5px 5px 1px #eeeeee,
-  -5px -5px 1px #eeeeee,
-  -5px 5px 1px #eeeeee,
-  5px -5px 1px #eeeeee;
+  text-shadow: 5px 5px 2px #eeeeee,
+  -5px -5px 2px #eeeeee,
+  -5px 5px 2px #eeeeee,
+  5px -5px 2px #eeeeee;
 }
 
 #head img {
@@ -271,7 +271,6 @@ a:hover {
   font-size: 3.0625rem;
   color: black;
   font-weight: bold;  
-  background-color: #ffffff00;
 }
 #head .title a {
   text-decoration: none;
