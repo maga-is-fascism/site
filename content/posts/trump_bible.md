@@ -4,9 +4,9 @@ date = 2024-10-04T19:58:50-07:00
 draft = false
 +++
 
-I need to write about the Trump Bible. It's in the news again because [Oklahoma's top education official has designed a corrupt process to buy them](https://apnews.com/article/oklahoma-bible-schools-trump-endorsed-f8001269aadca5b41712c6ec80e34f69). Instead of buying regular Bibles for classrooms - already a waste of education funds and I say that as a Christian - he's designed the bidding process so only the Trump Bible qualifies. This is a blantant attempt to use state money to enrich one man, also known as corruption.
+I need to write about the Trump Bible. It's in the news again because [Oklahoma's top education official has designed a corrupt process to buy them](https://apnews.com/article/oklahoma-bible-schools-trump-endorsed-f8001269aadca5b41712c6ec80e34f69). Instead of buying regular Bibles for classrooms - already a waste of education funds and I say that as a Christian - he's designed the bidding process so only the Trump Bible qualifies (Update 10/9: the tender process has been ammended so other bibles can also qualify). This was a blantant attempt to use state money to enrich one man, also known as corruption.
 
-According to the same article Trump has already made over $300,000 from sales of the Bible by licensing his name. Jesus has some strong words for people looking to profit unethically from the worship of the Lord.
+According to the same article Trump has already made over $300,000 from sales of the Bible by licensing his name. Jesus has some strong words for people looking to profit unethically from the worship of the Lord. 
 
 > Jesus entered the temple courts and began driving out those who were buying and selling there. He overturned the tables of the money changers and the benches of those selling doves, and would not allow anyone to carry merchandise through the temple courts. And as he taught them, he said, "Is it not written: 'My house will be called a house of prayer for all nations'? But you have made it 'a den of robbers.'"
 > -- Mark 11:15-17 (NIV)

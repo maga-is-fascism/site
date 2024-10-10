@@ -5,7 +5,7 @@ body {
   font-size: 15px;
   font-size: 0.9375rem;
   font-family: "Open sans", Helvetica, Arial, sans-serif;
-  color: #666666;
+  color: #333;
   padding: 0;
 }
 .topspace {
@@ -124,11 +124,11 @@ body {
   color: #f392b4;
 }
 .nav-side > li > a:hover {
-  color: #bd1550;
+  color: #f07623;
   background: none;
 }
 .nav-side > li.active > a {
-  color: #bd1550;
+  color: #f07623;
 }
 /*********************************************************************
 
@@ -189,10 +189,10 @@ h5 {
   font-size: 1.25rem;
 }
 a {
-  color: #bd1550;
+  color: #e30037;
 }
 a:hover {
-  color: #e93675;
+  color: #f07623;
 }
 .lead {
   font-weight: 400;
@@ -341,7 +341,7 @@ img {
 }
 .btn-primary {
   color: #fff;
-  background-color: #bd1550;
+  background-color: #f07623;
 }
 .btn-primary:hover,
 .btn-primary:focus,
@@ -360,8 +360,8 @@ img {
 .btn-action:focus,
 .btn-action:active,
 .btn-action.active {
-  color: #bd1550;
-  border-color: #bd1550;
+  color: #f07623;
+  border-color: #f07623;
 }
 .btn-lg {
   padding: 15px 60px;
@@ -544,7 +544,7 @@ img {
   display: block;
   width: 100%;
   overflow: hidden;
-  margin: 0px 0 25px;
+  margin: 0px 0 10px;
   text-align: center;
   font-weight: 300;
   text-transform: uppercase;
@@ -590,21 +590,31 @@ img {
   font-size: 1.125rem;
   font-style: italic;
   font-weight: normal;
-  color: #a5a5a5;
-  margin: 0 0 15px 0;
+  color: #333;
+  margin: 0 0 5px 0;
 }
-.entry-header .entry-meta a {
+
+.entry-header .entry-meta .posted-on {
   color: #a5a5a5;
+}
+
+.read-more {
+    margin-top: 10px;
+}
+
+.entry-header .entry-meta a {
+  color: #333;
 }
 .entry-content {
   margin: 0 0 60px 0;
 }
-.entry-content h2 {
+.entry-content h1 {
   line-height: 1.2;
   font-size: 30px;
   font-size: 1.875rem;
   padding-top: 20px;
-  margin-bottom: 20px;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
 }
 .meta-nav,
 .more-link {
@@ -744,7 +754,7 @@ footer.entry-meta .meta-in {
   color: #333333;
 }
 #comments .comment-meta a:hover {
-  color: #bd1550;
+  color: #f07623;
 }
 #comments .comment-meta .author {
   margin: 0 20px 0 0;

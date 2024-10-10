@@ -1,31 +1,33 @@
 {{ define "main" }}
 <main id="main">
-
 	<div class="container">
 		<div class="row topspace">
 			<div class="col-sm-8 col-sm-offset-2">
-
-        {{ range .Paginator.Pages }}
-				<article class="post">
-					<header class="entry-header">
-						<div class="entry-meta">
-               <span class="posted-on">
-                    {{ if not .Date.IsZero }}
-                        <time class="f6 mv4 dib tracked" {{ printf `datetime="%s"` (.Date.Format "2006-01-02T15:04:05Z07:00") | safeHTMLAttr }}>
-                            {{- .Date | time.Format (default "January 2, 2006" .Site.Params.date_format) -}}
-                        </time>
-                    {{end}}
-               </span>
-						</div>
-						<h1 class="entry-title">
-						  <a href="{{ .Permalink }}" rel="bookmark">{{ .Title }}</a>
-						</h1>
-					</header>
-					<div class="entry-content">
-						{{ .Content }}
-					</div>
-				</article>
-        {{ end }}
+                {{ range .Paginator.Pages }}
+                        <article class="post">
+                            <header class="entry-header">
+                                <div class="entry-meta">
+                                    <h1 class="entry-title">
+                                      <a href="{{ .Permalink }}" rel="bookmark">{{ .Title }}</a>
+                                    </h1>
+                                    <span class="posted-on">
+                                        {{ if not .Date.IsZero }}
+                                            <time class="f6 mv4 dib tracked" {{ printf `datetime="%s"` (.Date.Format "2006-01-02T15:04:05Z07:00") | safeHTMLAttr }}>
+                                                {{- .Date | time.Format (default "January 2, 2006" .Site.Params.date_format) -}}
+                                            </time>
+                                        {{end}}
+                                    </span>
+                                </div>
+                            </header>
+                            <div class="entry-content">
+                                {{ .Summary }}
+                                <div class="read-more">
+                                    <a class="button"
+                                    href="{{.RelPermalink}}">{{ $.Site.Params.ReadMore }}</a>
+                                </div>
+                            </div>
+                        </article>
+                {{ end }}
 			</div>
 		</div>
 
