@@ -2,6 +2,9 @@
 title = 'The Trump Bible'
 date = 2024-10-04T19:58:50-07:00
 draft = false
+tags = ["Christian Nationalism", "Downballot Deplorables"]
+keywords = ["Christian Nationalism", "Separation of Church and State"]
+description = "MAGA extremists' fake information about hurricane relief is dangerous."
 +++
 
 I need to write about the Trump Bible. It's in the news again because [Oklahoma's top education official has designed a corrupt process to buy them](https://apnews.com/article/oklahoma-bible-schools-trump-endorsed-f8001269aadca5b41712c6ec80e34f69). Instead of buying regular Bibles for classrooms - already a waste of education funds and I say that as a Christian - he's designed the bidding process so only the Trump Bible qualifies (Update 10/9: the tender process has been ammended so other bibles can also qualify). This was a blantant attempt to use state money to enrich one man, also known as corruption.

@@ -2,8 +2,8 @@
 title = "Helene and Milton Misinformation"
 date = "2024-10-09T20:11:51-07:00"
 cover = ""
-tags = ["bullshit", "fake news"]
-keywords = ["Helene", "Milton"]
+tags = ["lies", "fake news"]
+keywords = ["Helene", "Milton", "Hurricane", "FEMA"]
 description = "MAGA extremists' fake information about hurricane relief is dangerous."
 showFullContent = false
 +++

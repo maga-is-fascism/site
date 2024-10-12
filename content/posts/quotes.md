@@ -2,6 +2,9 @@
 title = 'Quotes'
 date = 2024-05-25T21:07:04-07:00
 draft = false
+tags = ["Fascism", "Freedom"]
+keywords = ["MAGA", "Christian Nationalism", "Religious freedom"]
+description = "MAGA is fascism."
 +++
 While looking for a quote for the home page I wanted to use this classic:
 
